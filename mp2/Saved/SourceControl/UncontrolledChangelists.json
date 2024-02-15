@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Materials/Material.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Materials/Material_001.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Materials/First_Aid_Kit.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/UI_Blood_Bar.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/UI_Game_Over.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Game.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_medkit.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/WBP_Restart.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_PatrolRoute.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/RAIState.uasset",
+				"C:/Users/zhe/Desktop/cs415 project/mp2/mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Health_Pack.uasset"
+			]
+		}
+	]
+}
